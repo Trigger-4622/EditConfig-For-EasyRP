@@ -2,6 +2,7 @@ ConfigEditor For EasyRP - discord!
 
 Download EasyRP here! - https://github.com/Pizzabelly/EasyRP
 
+How To Install - Compile The .sln and place the .exe file inside EasyRP and run!
 
 Options!!!
 
