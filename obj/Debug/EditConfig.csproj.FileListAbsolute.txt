@@ -1,7 +1,0 @@
-C:\Users\osher\EditConfig\EditConfig\bin\Debug\EditConfig.exe.config
-C:\Users\osher\EditConfig\EditConfig\bin\Debug\EditConfig.exe
-C:\Users\osher\EditConfig\EditConfig\bin\Debug\EditConfig.pdb
-C:\Users\osher\EditConfig\EditConfig\obj\Debug\EditConfig.csproj.AssemblyReference.cache
-C:\Users\osher\EditConfig\EditConfig\obj\Debug\EditConfig.csproj.CoreCompileInputs.cache
-C:\Users\osher\EditConfig\EditConfig\obj\Debug\EditConfig.exe
-C:\Users\osher\EditConfig\EditConfig\obj\Debug\EditConfig.pdb
