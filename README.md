@@ -36,7 +36,7 @@
 #### 11.) Print config.ini
 
 
-#### 12.) Enable GIF Mode! NOTE: DO NOT SET DELAY UNDER 2000 miliseconds OR YOU MAY GET BANNED!
+#### 12.) Enable GIF Mode! NOTE: In Beta.
 
 ## Created By Trigger#4622 (ID: 292770890792566784)
 
