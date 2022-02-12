@@ -1,43 +1,43 @@
-ConfigEditor For EasyRP - discord!
+# ConfigEditor For EasyRP - Discord Rich Presence!
 
-Download EasyRP here! - https://github.com/Pizzabelly/EasyRP
+## Download EasyRP here! - https://github.com/Pizzabelly/EasyRP
 
-How To Install - Compile The .sln and place the .exe file inside EasyRP and run!
+#### How To Install - Compile The .sln and place the .exe file inside EasyRP folder and run!
 
-Options!!!
+## Options!!!
 
-[Identifiers]
+## [Identifiers]
 
-1.) ClientID
+#### 1.) ClientID
 
-[State]
+## [State]
 
-2.) Change State
+#### 2.) Change State
 
-3.) Change Details
+#### 3.) Change Details
 
-4.) Change StartTimestamp
+#### 4.) Change StartTimestamp
 
-5.) Change EndTimestamp
+#### 5.) Change EndTimestamp
 
-[Images]
+## [Images]
 
-6.) Change LargeImage
+#### 6.) Change LargeImage
 
-7.) Change LargeImageTooltip
+#### 7.) Change LargeImageTooltip
 
-8.) Change SmallImage
+#### 8.) Change SmallImage
 
-9.) Change SmallImageTooltip
-
-
-10/Else .) Exit
-
-11.) Print config.ini
+#### 9.) Change SmallImageTooltip
 
 
-12.) Enable GIF Mode! NOTE: DO NOT SET DELAY UNDER 2000 miliseconds OR YOU MAY GET BANNED!
+#### 10 / Else .) Exit
 
-Created By Trigger#4622
+#### 11.) Print config.ini
 
-Enjoy! <3
+
+#### 12.) Enable GIF Mode! NOTE: DO NOT SET DELAY UNDER 2000 miliseconds OR YOU MAY GET BANNED!
+
+## Created By Trigger#4622 (ID: 292770890792566784)
+
+## Enjoy! <3
